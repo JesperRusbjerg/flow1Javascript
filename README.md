@@ -1,9 +1,6 @@
-# flow1Javascript
-Flow1 Eksamens Prep Aflevering
+VIEW IN RAW.. 
 
-Period-1 Vanilla JavaScript, es2015/15.., Node.js, Babel + Webpack and TypeScript
 
-Note: This description is too big for a single exam-question. It will be divided up into several questions for the exam
 Explain and Reflect:
 •	Explain the differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
 
